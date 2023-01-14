@@ -95,8 +95,7 @@ section-text p {
 }
 
 #section-two-text button {
-    height: 10px;
-    padding: 1rem 2rem;
+    padding: 8px 24px;
     text-transform: uppercase;
     letter-spacing: 2px;
     background-color: transparent;
