@@ -70,3 +70,40 @@ section-text p {
     margin-top: 2rem;
     line-height: 1.6rem;
 }
+
+#section-two {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 3rem;
+    padding: 0 4rem;
+}
+
+#section-two-text h2 {
+    font-size: 3rem;
+    text-transform: uppercase
+    ;
+    letter-spacing: 2px;
+    font-weight: 300;
+}
+
+#section-two-text button {
+    padding: 1rem 2rem;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    background-color: transparent;
+    cursor: pointer;
+}
+
+#mage-list-container {
+    margin-top: 4rem;
+}
+
+.image-list {
+    display: flex;
+    justify-content: center;
+    gap: 1rem;
+}
+
+.image-list {
+    width: 100%;
+}
