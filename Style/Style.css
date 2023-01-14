@@ -1,5 +1,13 @@
-*{
+* {
     margin: 0;
     padding: 0;
 }
 
+#main {
+    
+}
+
+#main a {
+    display: flex;
+    justify-content: space-between;
+}
