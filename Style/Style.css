@@ -1,5 +1,3 @@
-<img src="./images/desktop/image-interactive.jpg" alt="">
-
 * {
     margin: 0;
     padding: 0;
@@ -102,7 +100,7 @@ section-text p {
     cursor: pointer;
 }
 
-#mage-list-container {
+#image-list-container {
     margin-top: 4rem;
 }
 
@@ -114,4 +112,42 @@ section-text p {
 
 .image-list {
     width: 100%;
+}
+
+#foot-one {
+    background-color: black;
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+    padding: 2rem 8rem;
+    margin-top: 10rem;
+}
+
+#foot-one img {
+    height: 1.6rem;
+}
+
+#foot-one ul {
+    display: flex;
+    list-style: none;
+    color: white;
+    gap: 2.5rem;
+}
+
+#foot-two {
+    background-color: black;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0rem 8rem;
+    height: 4rem;
+}
+
+.tech-list {
+    background-color: black;
+    display: flex;
+    list-style: none;
+    color: white;
+    gap: 2.5rem;
+    margin-top: -2rem;
 }
